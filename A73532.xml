@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie on the death of Prince Henrie. By Sr William Alexander of Menstrie, gentleman of his Priuie Chamber</title>
+            <author>Stirling, William Alexander, Earl of, 1567 or 8-1640.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1613</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73532</idno>
+            <idno type="STC">STC 340</idno>
+            <idno type="STC">ESTC S125155</idno>
+            <idno type="EEBO-CITATION">99898578</idno>
+            <idno type="PROQUEST">99898578</idno>
+            <idno type="VID">173322</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173322)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2035:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie on the death of Prince Henrie. By Sr William Alexander of Menstrie, gentleman of his Priuie Chamber</title>
+                  <author>Stirling, William Alexander, Earl of, 1567 or 8-1640.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Andro Hart, and are to be solde at his shop, on the North-side of the high street, a litle beneath the Crosse,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>[1613].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verses on the death of Henry Frederick, Prince of Wales.</note>
+                  <note>Imprint date is bracketed on title page.</note>
+                  <note>At foot of title page: With licence.</note>
+                  <note>Reproduction of original in the British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henry Frederick, --  Prince of Wales, 1594-1612 --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173322:1" rendition="simple:additions"/>
+            <p>AN ELEGIE ON THE DEATH OF PRINCE HENRIE.</p>
+            <p>By S<hi rend="sup">r</hi> 
+               <hi>William Alexander</hi> of MENSTRIE, Gentleman of his Priuie Chamber.</p>
+            <p>
+               <hi>EDINBVRGH.</hi>
+            </p>
+            <p>Printed by Andro Hart, and are to <hi>be ſolde at his ſhop, on the North-ſide of the</hi> high ſtreet, a litle beneath the Croſſe. [1613] <hi>With Licence</hi>
+            </p>
+            <pb facs="tcp:173322:2"/>
+            <pb facs="tcp:173322:2" rendition="simple:additions"/>
+            <pb facs="tcp:173322:3" rendition="simple:additions"/>
+            <pb facs="tcp:173322:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:173322:4"/>
+            <pb facs="tcp:173322:4"/>
+            <head>AN ELEGIE ON THE DEATH OF PRINCE <hi>HENRIE.</hi>
+            </head>
+            <lg>
+               <l>IF griefe would giue me leaue, to let the world haue part</l>
+               <l>Of that which it [though ſurfetting] engroſſes in my hart:</l>
+               <l>Then I would ſow ſome teares, that ſo they mo might breed,</l>
+               <l>Not ſuch as eyes vſe to diſtill, but which the hart doth bleed.</l>
+               <l>As from a troubled ſpring like off-ſpring muſt abound,</l>
+               <l>So let my lynes farre from delight, hoarſe [as their Authour] ſound</l>
+               <l>I care not at what rate that others pryſe their worth,</l>
+               <l>So I diſburthen may my minde, and powre my paſsions forth.</l>
+               <l>Though generall be the loſſe, one ſhelfe confounding quyte</l>
+               <l>The Kings chiefe joy, the kingdomes hope, &amp; all the worlds deligh</l>
+               <l>And that each one of thoſe, a diuerſe wound giues me,</l>
+               <l>Whil'ſt all concurring would increaſe, what not increaſ'd can be:</l>
+               <l>Yet mine owne part when weigh'd, ſo deepe impreſsion leaues,</l>
+               <l>That my ſoules pow'rs all ſo poſſeſſ'd, no others it conceaues.</l>
+               <l>How can my hart but burſt, while as my thoughts would trace.</l>
+               <l>The great Prince <hi>Henries</hi> gallant parts, and not-affected grace<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Ah that I chanc'd ſo long [O wordly pleaſure fraile!]</l>
+               <l>To be a witneſſe of that worth, which I but liue to waile!</l>
+               <l>How oft haue I beheld [a world admiring it]</l>
+               <l>His Martiall ſports euen men amaze, his wordes bewitch their wit;</l>
+               <pb facs="tcp:173322:5"/>
+               <l>Whoſe worth did in all mindes juſt admiration breed:</l>
+               <l>When but a childe, more then a man [ah too ſoon rype indeed]</l>
+               <l>Still temperat, actiue, wiſe, as borne to doe great things;</l>
+               <l>He reallie ſhew what he was, a quint-eſſence of Kings.</l>
+               <l>With ſtately lookes yet mylde, a Majeſtie humaine</l>
+               <l>Both loue and reuerence bred at once, entyſ'd, yet did reſtraine.</l>
+               <l>What acting any where, he ſtill did grace his part,</l>
+               <l>A courtlie Gallant with the King, a ſtatelie Prince a part:</l>
+               <l>When both together were, O how all harts were wonne!</l>
+               <l>A Syre ſo louing to behold, ſo duetifull a Sonne.</l>
+               <l>He more then all his ſtate his fathers fauour weigh'd,</l>
+               <l>And gloried more him to attend, then when elſe-where obey'd.</l>
+               <l>But heauen enuied the earth, that one it ſo ſhould grace,</l>
+               <l>Who was not due vnto the world, though lent to it a ſpace:</l>
+               <l>And ſtraight they tooke their owne, who now no more appeares,</l>
+               <l>Euen when the Spheares &amp; muſes joyn'd, did ſerue to count his years.</l>
+               <l>What wit could not perſwade, authoritie. not force,</l>
+               <l>An vnion now at laſt is made [ah made by a divorce!]</l>
+               <l>Both once did one thing wiſh, and both one want do waile,</l>
+               <l>Thus miſerie hath match'd vs now, when all things elſe did faile.</l>
+               <l>We might as all the reſt, ſo this exception miſſe,</l>
+               <l>I rather we had jarr'd in all, or we had joyn'd in this.</l>
+               <l>This the firſt tempeſt is, which all this Ile did toſſe,</l>
+               <l>His cradle <hi>Scotland, England</hi> tombe, both ſhar'd his life and loſſe.</l>
+               <l>O how the traitrous world, by flattring hopes betrayes</l>
+               <l>And ſcornes the confidence of man, who ſtil through danger ſtrayes!</l>
+               <l>But moſt of all the great, when at their fortunes hight</l>
+               <l>Oft huge diſaſters do confound, not lookt for till they light.</l>
+               <l>That ſtates which ſeem'd moſt calme, ſtraight ſtormes in waues involue</l>
+               <l>Who gathered were for greateſt joy, with greateſt griefe diſſolue.</l>
+               <l>That <hi>Macedonian</hi> Syre, whoſe victories were ryfe,</l>
+               <l>The day which did his daughter wed, did part him ſelfe from lyfe.</l>
+               <l>French ſecond <hi>Henrie</hi> to, ſlaine in like ſort was ſeene,</l>
+               <l>As to triumph there with the reſt, death had inuited beene:</l>
+               <pb facs="tcp:173322:5"/>
+               <l>For whilſt he tilting was, when all his troupes among,</l>
+               <l>A broken trees flow'n ſpark did proue more then his ſcepter ſtrong</l>
+               <l>That <hi>Goth</hi> who vanquiſh'd <hi>Rome,</hi> and thouſands did deſtroy,</l>
+               <l>Euen when his bryde bent to embrace, died in his greateſt joy.</l>
+               <l>The laſt yet firſt <hi>French</hi> King for courage, valour, wit,</l>
+               <l>Who by the ſword acquyr'd the Crowne, fram'd for a ſcepter fit:</l>
+               <l>Whil'ſt muſtring all his might, [being farre from feare or doubt]</l>
+               <l>He fraughted <hi>France</hi> with armed troupes, as bragging all about.</l>
+               <l>Then whil'ſt his hopes moſt high, euen kingdomes did appall,</l>
+               <l>Hein that greateſt pompe ſurpryſ'd, a villains prey did fall.</l>
+               <l>Thus hath it fatall beene, confirm'd in euery age,</l>
+               <l>That who did meet to acte great parts, went weeping from the ſtage.</l>
+               <l>Is it that God euen then, would hautie thoughts diſbend?</l>
+               <l>Or that ſuch times as eminent, vyle traitours moſt attend?</l>
+               <l>So when ſuſpected leaſt [O <hi>Ocean</hi> of annoy!]</l>
+               <l>Lo, mourning mirth preuented hath, &amp; griefe encroach'd on joy.</l>
+               <l>Yet not in ſuch a ſort, as with ſome in times paſt,</l>
+               <l>Whoſe life being oft inuolu'd in blood, blood did diſpatch at laſt:</l>
+               <l>But he (ſtill ſacred) went not violated hence,</l>
+               <l>The glorie of a Gallant youth, a paterne for a Prince.</l>
+               <l>What breſt ſo barbarous is, which vertue can not charme?</l>
+               <l>No hand, no, nor no hart in ought, could do or dreame his harme.</l>
+               <l>Since by his ſight not bleſt, all count themſelues accurſt,</l>
+               <l>By whom the world was big with hopes, which did not die but burſt.</l>
+               <l>Tyme did contract it ſeem'd (his courſe ſo ſhort fore-ſeene)</l>
+               <l>That worth in youth, which all his age ſhould haue extended beene</l>
+               <l>For O, to what ſtrange hight had his perfections flowne,</l>
+               <l>Had they as firſt, ſtill by degrees proportionablie growne!</l>
+               <l>But ſuperſtition then, had ſtatues made of gold,</l>
+               <l>And ſome might haue Idolatriz'd, as many did of old.</l>
+               <l>The fates (it may be) ſtay'd what after might him trap,</l>
+               <l>As in <hi>Campania Pompeyes</hi> death preuented had miſhap:</l>
+               <l>He happie was in this, which few haue beene before,</l>
+               <l>When all opinions purchaſ'd were, to venture them no more.</l>
+               <pb facs="tcp:173322:6"/>
+               <l>For all perſwaded are, as acted in effect,</l>
+               <l>That he might haue perform'd as much as mortalls could exſpect.</l>
+               <l>Thus went he from the world, when with the beſt thought euen,</l>
+               <l>Whil'ſt though but flouriſhing on earth, yet a ripe fruit for heauen.</l>
+               <l>The Lord oft twixt the King and dangers huge did ſtand,</l>
+               <l>And many ſo to ſaue, him ſau'd, as life of all the Land:</l>
+               <l>For ſcorning all their crafts who vglie euils did found,</l>
+               <l>What priuat plots did God diſcloſe, what open force confound.</l>
+               <l>Yet when he was to part, [O what a wondrous oddes!]</l>
+               <l>Who was by nature the Kings Sonne, but by adoption Gods:</l>
+               <l>Nought vrging elſe his end, ſaue nature that declyn'd,</l>
+               <l>Bright Angels did beare hence that flowre, as other flowres the wind,</l>
+               <l>Both Deuils and men when joyn'd to kill for whom God cares,</l>
+               <l>May draw a ſtarre as ſoone from heauen, as hurt one of their haires:</l>
+               <l>And whom he will remoue when as their time once comes,</l>
+               <l>No guards can guarde, no Phyſick helpe, one fit force o'recomes.</l>
+               <l>But ah that treaſures loſſe, which I can not diſgeſt</l>
+               <l>Is ſtill the center of my minde, the point where it muſt reſt:</l>
+               <l>And each great part of his, which I did earſt perceiue,</l>
+               <l>My fancies repreſenting new do thoughts attendance craue.</l>
+               <l>What wonder though my plaints be thus for him imploy'd</l>
+               <l>Who my affections free till then, when Virgins, firſt enjoy'd?</l>
+               <l>And heare me [happie Ghoſt] that fame may ſpread them forth,</l>
+               <l>I vow to reuerence and enroule the wonders of thy worth:</l>
+               <l>That euen though chyldleſſe dead, thou ſhall not barren be,</l>
+               <l>If Phoebus helpe to procreat poſteritie for thee.</l>
+               <l>Thus where that others did abandon thee with breath,</l>
+               <l>As ſtill aliue I trauell yet, to ſerue thee after death.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:173322:6"/>
+            <head>To his Majestie.</head>
+            <lg>
+               <l>THE worlds affection now this tragick tryall proues,</l>
+               <l>Heauen heape miſhaps vpon his head, who<g ref="char:cmbAbbrStroke">̄</g> it not highly moues.</l>
+               <l>But though the weight be great, which makes each hart to bow,</l>
+               <l>That men when mad, rage not ſo much as reaſon doth allow:</l>
+               <l>And that [thryſe Royall Syre] ſince that it firſt was knowne,</l>
+               <l>All by imagining your griefe haue doubled ſo their owne.</l>
+               <l>Yet ſince to many due, waſte not on one your cares,</l>
+               <l>As all your ſubjects waile your ſtate, haue pitie Sir on theires.</l>
+               <l>Leaſt that this griefe though great, a greater doe out-go,</l>
+               <l>If from your ſonne turn'd to your ſelfe, you eeke, not end our wo.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>A SHORT VIEW <hi>of the ſtate of man.</hi>
+            </head>
+            <lg>
+               <l>MVST wretched man, when com'd where woes abound,</l>
+               <l>Ere to the Sunne, vncloſe his eyes to teares?</l>
+               <l>Whom when ſcarſe borne, one ſtraight to priſon beares,</l>
+               <l>Looſ'd from the bellie, in the Cradle bound.</l>
+               <l>Then ryſing by the rod, he doth attend</l>
+               <l>The miſteries of miſerie at length,</l>
+               <l>And ſtill his burthens growing with his ſtrength,</l>
+               <l>Huge toyles and cares his youths perfection ſpends.</l>
+               <l>Laſt, helping Natures wants, O deare bought breath!</l>
+               <l>He muſt haue eyes of glaſſe, and feete of tree,</l>
+               <l>Till lyke a bow his bodie turnes to be,</l>
+               <l>Which age hath bended to be ſhot by death.</l>
+               <l>O, o I ſee that from the mothers wombe,</l>
+               <l>There's but a litle ſteppe vnto the tombe.</l>
+            </lg>
+            <closer>
+               <signed>S.W.M.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
